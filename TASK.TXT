@@ -1,0 +1,29 @@
+Thingsto be done
+
+1.collapsablemenu
+2.dark color
+3. top right user info.
+4.Adminmanager>subscription.
+5. created on , added by , subscription type(aws/gcp) ,jquery filter (subscription type),  consumption
+6.column - view based on type of subscription pop up.
+
+
+https://www.datatables.net/examples/api/multi_filter_select.html
+
+https://www.datatables.net/examples/api/multi_filter_select.html
+
+https://www.datatables.net/examples/api/add_row.html
+
+https://www.datatables.net/examples/api/tabs_and_scrolling.html
+
+
+
+
+
+taskbar size 225-width
+expand behaviour like mist.info
+CSS color #011433
+menu bar font white
+ADD BUTTON FOR ADDING SUBSCRIPTION-POP UP??
+add subscription wizad +-->choose cloud-->form
+columns in subscription page - Subscription name,SUBSCRIPTION ID,Cloud,Projects,Total consumption,Quota,Created On,CreatedBY,EDIT/DELETE.
